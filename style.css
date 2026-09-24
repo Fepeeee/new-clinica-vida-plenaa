@@ -107,3 +107,7 @@ footer p {
     height: 600px;
     object-fit: cover;
 }
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #0f172a;
+}
